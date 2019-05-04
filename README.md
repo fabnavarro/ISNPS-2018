@@ -4,8 +4,7 @@ This is the code to reproduce all the experiments presented in the paper
 
 **C. Chesneau, J. Kou and F. Navarro
 <br>
-[Linear wavelet estimation in regression with additive and multiplicative noise](https://hal.archives-ouvertes.fr/hal-01877543v2/document), 
-**
+[Linear wavelet estimation in regression with additive and multiplicative noise](https://hal.archives-ouvertes.fr/hal-01877543v2/document)**
 <br>
 
 
